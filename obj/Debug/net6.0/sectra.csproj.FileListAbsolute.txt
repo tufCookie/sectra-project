@@ -1,0 +1,15 @@
+C:\Users\prato\Repos\sectra\bin\Debug\net6.0\sectra.exe
+C:\Users\prato\Repos\sectra\bin\Debug\net6.0\sectra.deps.json
+C:\Users\prato\Repos\sectra\bin\Debug\net6.0\sectra.runtimeconfig.json
+C:\Users\prato\Repos\sectra\bin\Debug\net6.0\sectra.dll
+C:\Users\prato\Repos\sectra\bin\Debug\net6.0\ref\sectra.dll
+C:\Users\prato\Repos\sectra\bin\Debug\net6.0\sectra.pdb
+C:\Users\prato\Repos\sectra\obj\Debug\net6.0\sectra.csproj.AssemblyReference.cache
+C:\Users\prato\Repos\sectra\obj\Debug\net6.0\sectra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prato\Repos\sectra\obj\Debug\net6.0\sectra.AssemblyInfoInputs.cache
+C:\Users\prato\Repos\sectra\obj\Debug\net6.0\sectra.AssemblyInfo.cs
+C:\Users\prato\Repos\sectra\obj\Debug\net6.0\sectra.csproj.CoreCompileInputs.cache
+C:\Users\prato\Repos\sectra\obj\Debug\net6.0\sectra.dll
+C:\Users\prato\Repos\sectra\obj\Debug\net6.0\ref\sectra.dll
+C:\Users\prato\Repos\sectra\obj\Debug\net6.0\sectra.pdb
+C:\Users\prato\Repos\sectra\obj\Debug\net6.0\sectra.genruntimeconfig.cache
